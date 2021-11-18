@@ -3,7 +3,7 @@
 Therapy Advisor is a project where people can advice about mental health. 
 
 App has several features:
-- News (connected with wordpress web page)
+- News - dynamically showing in home view (connected with wordpress web page)
 - Chatbot (soon)
 
 ![Main](https://github.com/TomaszMajek/TherapyApp/blob/master/2021-11-18.png)
