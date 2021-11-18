@@ -6,5 +6,7 @@ App has several features:
 - News (connected with wordpress web page)
 - Chatbot (soon)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[Main](https://github.com/TomaszMajek/TherapyApp/blob/master/2021-11-18.png)
+[Sidebar](https://github.com/TomaszMajek/TherapyApp/blob/master/2021-11-18%20(2).png)
+[Article1](https://github.com/TomaszMajek/TherapyApp/blob/master/2021-11-18%20(1).png)
+[Article2](https://github.com/TomaszMajek/TherapyApp/blob/master/2021-11-18%20(3).png)
